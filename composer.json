@@ -60,8 +60,14 @@
         "magento-force": "override"
     },
     "config": {
-     " github-oauth " : {
-       " github.com " : "c82ccd13e1e30f4eb0c7b62a32197ebfa7b85ed1"
-      }
+    	"github-oauth " : {
+      		"github.com " : "c82ccd13e1e30f4eb0c7b62a32197ebfa7b85ed1"
+    	},
+	    "http-basic": {
+	    	"repo.magento.com": {
+	        	"username": "94ced1fbc3c32240d57b770cb445eed9",
+	        	"password": "51cb1feda388891e46f1fe1ad14e5c43"
+	      	}
+	   	}
     }
 }

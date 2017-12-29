@@ -59,10 +59,9 @@
     "extra": {
         "magento-force": "override"
     },
-    "config" : {
+    "config": {
      " github-oauth " : {
        " github.com " : "c82ccd13e1e30f4eb0c7b62a32197ebfa7b85ed1"
       }
     }
-}
 }

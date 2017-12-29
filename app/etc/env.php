@@ -15,10 +15,10 @@ return array (
     array (
       'default' =>
       array (
-        'host' => 'bfjrxdpxrza9qllq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-        'dbname' => 'rz09b4disuo1svtk',
-        'username' => 'cb9mqkfov4w683e8',
-        'password' => 'tl3qo0f6z5ytcdi4',
+        'host' => 'wp433upk59nnhpoh.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+        'dbname' => 'qsg6aq0mf2pvcr0o',
+        'username' => 'vrt1jyxralpw63c2',
+        'password' => 'c9xzqe30j76vvv4w',
         'active' => '1',
       ),
     ),

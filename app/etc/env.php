@@ -15,10 +15,10 @@ return array (
     array (
       'default' =>
       array (
-        'host' => 'wp433upk59nnhpoh.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-        'dbname' => 'qsg6aq0mf2pvcr0o',
-        'username' => 'vrt1jyxralpw63c2',
-        'password' => 'c9xzqe30j76vvv4w',
+        'host' => 'localhost',
+        'dbname' => 'magento',
+        'username' => 'root',
+        'password' => 'ted191012',
         'active' => '1',
       ),
     ),
